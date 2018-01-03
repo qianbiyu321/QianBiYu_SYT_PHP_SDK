@@ -28,4 +28,5 @@
 
 
 
-平台客服可以帮助接入网站，官网地址https://api.qianbiyu.com，欢迎加群询问~~
+平台客服可以帮助接入网站，官网地址https://api.qianbiyu.com/
+欢迎加群询问~~
